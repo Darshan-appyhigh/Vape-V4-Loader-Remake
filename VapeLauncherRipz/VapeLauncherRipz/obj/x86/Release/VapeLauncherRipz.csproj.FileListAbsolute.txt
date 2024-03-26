@@ -1,0 +1,12 @@
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\x86\Release\VapeLauncherRipz.exe.config
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\x86\Release\VapeLauncherRipz.exe
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\x86\Release\VapeLauncherRipz.pdb
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\x86\Release\Siticone.UI.dll
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.main.resources
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.Properties.Resources.resources
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.csproj.GenerateResource.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.csproj.CoreCompileInputs.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.csproj.CopyComplete
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.exe
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.pdb
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\x86\Release\VapeLauncherRipz.csproj.AssemblyReference.cache

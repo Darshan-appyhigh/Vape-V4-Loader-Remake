@@ -1,0 +1,13 @@
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Release\VapeLauncherRipz.exe.config
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Release\VapeLauncherRipz.exe
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Release\VapeLauncherRipz.pdb
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.csproj.AssemblyReference.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.main.resources
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.Properties.Resources.resources
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.csproj.GenerateResource.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.csproj.CoreCompileInputs.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.csproj.Fody.CopyLocal.cache
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.csproj.CopyComplete
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.exe
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Release\VapeLauncherRipz.pdb
